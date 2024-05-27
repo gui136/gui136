@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 😀
 
-<!--
-**gui136/gui136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme
 
-Here are some ideas to get you started:
+EU estudando no [Alura](https:www.alura.com.br)
+Estou me desenvolvendo no JavaScript
+Utilizo esse site para organizar e armazenar meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você quer entrar em contato comigo?
+
+oliveiradasilva053@gmail.com
+
+![](https://media1.tenor.com/m/J9lnKRr9ORoAAAAd/charles-leclerc-spanish-gp2022.gif)
